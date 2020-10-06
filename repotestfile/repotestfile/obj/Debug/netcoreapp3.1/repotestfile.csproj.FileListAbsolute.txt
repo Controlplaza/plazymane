@@ -1,0 +1,13 @@
+C:\Users\wzeki\OneDrive\Desktop\plazymane\repotestfile\repotestfile\bin\Debug\netcoreapp3.1\repotestfile.exe
+C:\Users\wzeki\OneDrive\Desktop\plazymane\repotestfile\repotestfile\bin\Debug\netcoreapp3.1\repotestfile.deps.json
+C:\Users\wzeki\OneDrive\Desktop\plazymane\repotestfile\repotestfile\bin\Debug\netcoreapp3.1\repotestfile.runtimeconfig.json
+C:\Users\wzeki\OneDrive\Desktop\plazymane\repotestfile\repotestfile\bin\Debug\netcoreapp3.1\repotestfile.runtimeconfig.dev.json
+C:\Users\wzeki\OneDrive\Desktop\plazymane\repotestfile\repotestfile\bin\Debug\netcoreapp3.1\repotestfile.dll
+C:\Users\wzeki\OneDrive\Desktop\plazymane\repotestfile\repotestfile\bin\Debug\netcoreapp3.1\repotestfile.pdb
+C:\Users\wzeki\OneDrive\Desktop\plazymane\repotestfile\repotestfile\obj\Debug\netcoreapp3.1\repotestfile.csprojAssemblyReference.cache
+C:\Users\wzeki\OneDrive\Desktop\plazymane\repotestfile\repotestfile\obj\Debug\netcoreapp3.1\repotestfile.AssemblyInfoInputs.cache
+C:\Users\wzeki\OneDrive\Desktop\plazymane\repotestfile\repotestfile\obj\Debug\netcoreapp3.1\repotestfile.AssemblyInfo.cs
+C:\Users\wzeki\OneDrive\Desktop\plazymane\repotestfile\repotestfile\obj\Debug\netcoreapp3.1\repotestfile.csproj.CoreCompileInputs.cache
+C:\Users\wzeki\OneDrive\Desktop\plazymane\repotestfile\repotestfile\obj\Debug\netcoreapp3.1\repotestfile.dll
+C:\Users\wzeki\OneDrive\Desktop\plazymane\repotestfile\repotestfile\obj\Debug\netcoreapp3.1\repotestfile.pdb
+C:\Users\wzeki\OneDrive\Desktop\plazymane\repotestfile\repotestfile\obj\Debug\netcoreapp3.1\repotestfile.genruntimeconfig.cache
